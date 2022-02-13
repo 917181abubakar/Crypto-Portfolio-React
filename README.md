@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Crypto Portfolio React App
+
+![Screenshot](https://user-images.githubusercontent.com/60659414/153772218-fab13187-d2c1-4076-b260-5d450ca3777f.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+From that project , I get expereince of working with
+
+<li>Advanced React Best Practices such as Redux, Ant design </li>
+<li>Creating a User Interface using Material UI</li>
+<li>Working with CoinRanking Rapid API, millify, moment, react-router-dom</li>
 
 ## Available Scripts
 
